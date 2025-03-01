@@ -1,5 +1,6 @@
 package com.example.adidasbank.service;
 
+<<<<<<< HEAD
 import com.example.adidasbank.entity.CustomerAccount;
 import com.example.adidasbank.repository.CustomerAccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,6 +10,8 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
+=======
+>>>>>>> e30333d9cc93452dd3ebeea08aff23075bab1347
 
 public class CustomerAccountService {
     @Autowired
